@@ -1,18 +1,18 @@
-🌧️☀️ What’s the weather like in your city right now?
-I just built a Weather App using React + OpenWeatherMap API to help you find out instantly! 🧑‍💻⚡
+# ⛅ React Weather App
 
-This was a fun weekend project where I learned a lot about:
-✅ Working with APIs using Axios
-✅ Managing component state in React
-✅ Styling fast with Tailwind CSS
-✅ Handling user input and errors gracefully
+A responsive weather application built with **React**, **Axios**, and **Tailwind CSS**, using live data from the [OpenWeatherMap API](https://openweathermap.org/api). Search any city and get the current weather details instantly!
 
-🔎 Just type your city name and get:
+## 🌟 Features
 
-Weather conditions (like "Cloudy", "Rainy" etc.)
+- 🔍 City-based weather search
+- 🌦️ Displays current weather condition
+- 🌡️ Shows temperature in Celsius
+- 📝 Description of the weather
+- 📱 Fully responsive & animated UI
 
-Temperature in Celsius 🌡️
+## 🚀 Tech Stack
 
-A short weather description 📝
-
-📸 Clean UI | 📱 Mobile responsive | 🧠 Minimal logic, Maximum utility
+- React
+- Axios
+- Tailwind CSS
+- OpenWeatherMap API
