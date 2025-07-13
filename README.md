@@ -1,12 +1,18 @@
-# React + Vite
+🌧️☀️ What’s the weather like in your city right now?
+I just built a Weather App using React + OpenWeatherMap API to help you find out instantly! 🧑‍💻⚡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This was a fun weekend project where I learned a lot about:
+✅ Working with APIs using Axios
+✅ Managing component state in React
+✅ Styling fast with Tailwind CSS
+✅ Handling user input and errors gracefully
 
-Currently, two official plugins are available:
+🔎 Just type your city name and get:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Weather conditions (like "Cloudy", "Rainy" etc.)
 
-## Expanding the ESLint configuration
+Temperature in Celsius 🌡️
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A short weather description 📝
+
+📸 Clean UI | 📱 Mobile responsive | 🧠 Minimal logic, Maximum utility
